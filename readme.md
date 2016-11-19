@@ -85,3 +85,8 @@ If you are using Sublime Text 3, you can enable/disable previewing the highlight
 To improve the user experience, Schemr filters schemes that contain `(SL)` or `(Color Highlighter)` from being listed or activated with Schemr commands. These schemes can still be enabled manually through the application menu or user settings file.
 
 If a color scheme does not define colors for the [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter) or [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter), the scheme file is extended and the written to a file in the `Packages/User` directory. If you switch between a lot of schemes this can quickly pollute the scheme list with many duplicates. Activate the base color scheme through Schemr and SublimeLinter/Color Highlighter will switch to their version automatically.
+
+## You might also like 
+
+- [Themr](https://packagecontrol.io/packages/Themr)
+- [ColorSchemeEditor](https://packagecontrol.io/packages/ColorSchemeEditor)
